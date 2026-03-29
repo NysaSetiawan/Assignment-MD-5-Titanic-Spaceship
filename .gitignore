@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+mlruns/
+mlflow.db
+data/
+notebook/
+.DS_Store
